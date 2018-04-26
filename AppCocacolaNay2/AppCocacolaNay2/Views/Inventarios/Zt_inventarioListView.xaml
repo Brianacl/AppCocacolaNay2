@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCocacolaNay2.Views.Inventarios.Zt_inventarioListView"
+             Title="ZT_INVENTARIO">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem 
+            Name="Agregar zt_inventario"
+            Command="{Binding AddCommand}">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="Android, iOS" Value="plus" />
+                    <On Platform="UWP" Value="Assets/plus.png" />
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ListView
+        ItemsSource="{Binding Zt_inventarios}"
+        SelectedItem="{Binding SelectedZt_inventario, Mode=TwoWay}">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <ViewCell.View>
+                        <StackLayout
+                            Padding="20,0,20,0"
+                            Orientation="Horizontal"
+                            HorizontalOptions="FillAndExpand">
+                            <Label 
+                                Text="{Binding Id}"
+                                VerticalTextAlignment="Center"
+                                HorizontalOptions="StartAndExpand" />
+                            <Label 
+                                Text="{Binding CEDI}"
+                                VerticalTextAlignment="Center"
+                                HorizontalOptions="StartAndExpand" />
+                            <Label 
+                                Text="{Binding Usuario}"
+                                VerticalTextAlignment="Center"
+                                HorizontalOptions="StartAndExpand" />
+                        </StackLayout>
+                    </ViewCell.View>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

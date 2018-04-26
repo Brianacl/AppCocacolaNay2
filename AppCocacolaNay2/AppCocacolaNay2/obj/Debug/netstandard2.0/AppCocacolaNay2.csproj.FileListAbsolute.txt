@@ -1,0 +1,17 @@
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\bin\Debug\netstandard2.0\AppCocacolaNay2.deps.json
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\bin\Debug\netstandard2.0\AppCocacolaNay2.dll
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.csprojResolveAssemblyReference.cache
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.csproj.CoreCompileInputs.cache
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.App.xaml.g.cs
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.Views.AboutPage.xaml.g.cs
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.Views.ItemDetailPage.xaml.g.cs
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.Views.ItemsPage.xaml.g.cs
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.Views.MainPage.xaml.g.cs
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.Views.NewItemPage.xaml.g.cs
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.AssemblyInfoInputs.cache
+c:\users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.AssemblyInfo.cs
+C:\Users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.Views.Inventarios.Zt_inventarioListView.xaml.g.cs
+C:\Users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.Views.Inventarios.Zt_inventariosItemView.xaml.g.cs
+C:\Users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\bin\Debug\netstandard2.0\AppCocacolaNay2.pdb
+C:\Users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.dll
+C:\Users\titab\source\repos\AppCocacolaNay2\AppCocacolaNay2\AppCocacolaNay2\obj\Debug\netstandard2.0\AppCocacolaNay2.pdb
